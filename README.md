@@ -1,4 +1,4 @@
-## 👋 Oi, boas vindas ao meu GITHUB!
+## 👋 Oi, bem vindo (a) ao meu GITHUB!
 ## Meu nome é Denyson de Brito,
 ## Sou formado em administração de empresas no Centro Universitário UniFanor, estou aprofundando meus conhecimentos em analise de dados atráves da resilia educação.
 
