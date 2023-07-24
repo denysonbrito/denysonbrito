@@ -13,6 +13,7 @@
 
 <a href="https://www.linkedin.com/in/denyson-analista-de-dados/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-
-<a href="denysonbrito@gmail.com"> 
-        <img src="{[BadgeURLHere](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />
+<br />
+        
+<a href="denysonbrito@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
